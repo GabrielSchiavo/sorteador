@@ -11,8 +11,8 @@ Sorteador de números com range inicial e range final.
 - `Sortear números`: realiza o sorteio de números conforme o range inicial e final informado pelo usuário.
 - `Adivinhar número`: o usuário pode tentar adivinhar qual será o número sorteado especificando esse número.
 
-![screenshot_sorteador](https://user-images.githubusercontent.com/84607831/181069815-1f507aea-c797-4678-87f3-c39a1951ab61.png)
-![screenshot2_sorteador](https://user-images.githubusercontent.com/84607831/181069831-fedcc917-b16a-4e64-badd-9db75d85c18e.png)
+<img src="./assets/img/screenshots/screenshot_sorteador.png" alt="Screenshot 1"/>
+<img src="./assets/img/screenshots/screenshot2_sorteador.png" alt="Screenshot 2"/>
 
 ## :file_folder: Acesso ao projeto
 Você pode [acessar o código-fonte do projeto](https://github.com/GabrielSchiavo/sorteador) ou [baixá-lo](https://github.com/GabrielSchiavo/sorteador/archive/refs/heads/main.zip).
