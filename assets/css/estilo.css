@@ -1,0 +1,48 @@
+.body {
+   background: #34495e;
+}
+
+.titulo {
+   text-transform: uppercase;
+   color: #ffffff;
+}
+
+.box {
+   background: #24252a;
+   border-radius: 8px;
+   left: 50%;
+   padding: 35px;
+   text-align: center;
+   width: 400px;
+}
+
+.btnSortear {
+   background-color: transparent;
+   border-radius: 50px;
+   border: 1px solid #0049a9cc;
+   color: #edf0f1;
+   font-size: 18px;
+   width: 100%;
+   height: 45px;
+}
+
+.btnSortear:hover {
+   background-color: #0049a9cc;
+   border-color: transparent
+}
+
+#mensagem {
+   margin-top: 20px;
+   color: #ffffff;
+   font-size: 20px;
+   text-align: center;
+}
+
+.numSorteado {
+   margin-top: 20px;
+   color: #44bd32;
+   font-size: 20px;
+   text-align: center;
+   font-weight: 700;
+   font-style: italic;
+}

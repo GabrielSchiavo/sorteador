@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Sorteador</title>
+      <link rel="shortcut icon" href="./assets/img/favicon.png">
+      <link rel="stylesheet" href="./assets/css/estilo.css">
+      <link  rel="stylesheet" href="./assets/lib/bootstrap-5.2.0/css/bootstrap.min.css">
+      <script src="./assets/lib/bootstrap-5.2.0/js/bootstrap.bundle.min.js"></script>
+      <script src="./assets/js/jquery-3.6.0.min.js"></script>
+   </head>
+   <body class="body"> 
+      <div class="box mt-5 mb-2 mx-auto">
+         <h3 class="titulo mb-4" tabindex="0">Sorteador</h3>
+
+         <div class="mt-3 mb-4" id="mensagemAviso"></div>
+
+         <div class="form-floating mb-3">
+            <input type="number" class="form-control" id="rangeInicial" placeholder="Digite o range inicial">
+            <label class="text-start">Digite o range inicial</label>
+         </div>
+
+         <div class="form-floating mb-3">
+             <input type="number" class="form-control" id="rangeFinal" placeholder="Digite o range final">
+             <label class="text-start">Digite o range final</label>
+         </div>
+
+         <div class="form-floating mb-4">
+            <input type="number" class="form-control" id="minhaAposta" placeholder="Digite sua aposta">
+            <label class="text-start">Digite sua aposta (opcional)</label>
+         </div>
+         <button onclick="sortear()" class="btnSortear">Sortear</button>
+
+         <div id="mensagem"></div>
+      </div>
+
+      <script src="./assets/js/script.js"></script>
+   </body>
+</html>
