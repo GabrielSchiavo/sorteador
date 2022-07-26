@@ -11,6 +11,7 @@ Sorteador de números com range inicial e range final.
 - `Sortear números`: realiza o sorteio de números conforme o range inicial e final informado pelo usuário.
 - `Adivinhar número`: o usuário pode tentar adivinhar qual será o número sorteado especificando esse número.
 
+<br>
 <img src="./assets/img/screenshots/screenshot_sorteador.png" alt="Screenshot 1"/>
 <img src="./assets/img/screenshots/screenshot2_sorteador.png" alt="Screenshot 2"/>
 
