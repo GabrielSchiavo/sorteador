@@ -25,7 +25,7 @@ Após, copie o caminho do arquivo 'index.html' e cole na caixa de busca do seu n
 
 Agora o sorteador estará pronto para uso.
 
-## :heavy_check_mark: Tecnologias utilizadas
+## :white_check_mark: Tecnologias utilizadas
 * `JavaScript`
 * `HTML5 e CSS3`
 * `Bootstrap - 5.2.0`
