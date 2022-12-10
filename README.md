@@ -8,8 +8,8 @@
 Sorteador de números com range inicial e range final.
 
 ## :hammer: Funcionalidades do projeto
-- `Sortear números`: realiza o sorteio de números conforme o range inicial e final informado pelo usuário.
-- `Adivinhar número`: o usuário pode tentar adivinhar qual será o número sorteado especificando esse número.
+- `Sortear números:` realiza o sorteio de números conforme o range inicial e final informado pelo usuário.
+- `Adivinhar número:` o usuário pode tentar adivinhar qual será o número sorteado especificando esse número.
 
 <br>
 <img src="./assets/img/screenshots/screenshot_sorteador.png" alt="Screenshot 1"/>
@@ -21,7 +21,7 @@ Você pode [acessar o código-fonte do projeto](https://github.com/GabrielSchiav
 ## 	:hammer_and_wrench: Abrir e rodar o projeto
 Depois de baixar o projeto, você pode abrir com o Visual Studio Code.
 
-Após, copie o caminho do arquivo 'index.html' e cole na caixa de busca do seu navegador.
+Após, copie o caminho do arquivo "index.html" e cole na caixa de busca do seu navegador.
 
 Agora o sorteador estará pronto para uso.
 
